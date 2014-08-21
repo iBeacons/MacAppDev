@@ -3,7 +3,7 @@
 //  ElevatorScheduler
 //
 //  Created by Xia Mingjie on 13-11-2.
-//  Copyright (c) 2013年 08.github.com. All rights reserved.
+//  Copyright (c) 2013年 iBeacons.github.com. All rights reserved.
 //
 //  1、遍历楼层, 时间复杂度为O(N*N)
 //
